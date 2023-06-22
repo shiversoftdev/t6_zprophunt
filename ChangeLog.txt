@@ -1,0 +1,14 @@
+[Update 2.0]
+1: Fixed Various Bugs and implemented several new features
+2: Transitioned to New Menu Base (SENTINEL 1.5)
+3: Removed Gamemodes Menu for more space in the menu for other functions.
+4: Removed Option specific messages to free strings (ie: Godmode On will now just say Enabled)
+5: Performed several operations on the menu structure to free strings. (Around 750 in total)
+
+[Update 2.5]
+1: Fixed Overflow Bugs
+2: Fixed Several Function Specific Bugs
+3: Fixed Players and All players toggles to operate correctly
+4: Added 8 Player zombies capabilities to PS3 Injector
+5: Added Many new Functions (Mainly fun menu functions and random things to do for fun in the game.)
+6: Addressed several issues in backend efficiency for various functions to improve overall menu stability.
